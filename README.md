@@ -1,5 +1,6 @@
-__Проект по модулю Spring Framework в JavaRush__
+**Проект по модулю Spring Framework в JavaRush**
 
-_Демо: http://pakhomov.net.ru/todo/_
+Задача: 
+- Разработать CRUD-приложение, используя технологии Spring MVC, Hibernate и MySQL. 
+- Создать систему управления задачами (To-Do) с возможностью просмотра, добавления, редактирования и удаления задач.
 
-Задача: написать CRUD-приложение используя Spring-MVC, Hibernate, MySQL
